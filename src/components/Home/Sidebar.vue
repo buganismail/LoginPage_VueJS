@@ -9,7 +9,7 @@
       <div class="side">
         <div class="top-sign">
           <div class="text">
-            <span class="left">MaTecH</span>
+            <span class="left">Welcome</span>
             <span class="tiny">	</span>
             <span class="right"></span>
           </div>
